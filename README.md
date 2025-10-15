@@ -24,9 +24,9 @@ A diferença entre imagem e snapshot é que a imagem de máquina da amazon(ami) 
 # Cenário Atual
 Durante o desafio, criei um cenário sobre uma Clinaca de Veterinária sobre o envio de arquivo para nuvem.
 
-EC2(Hospeda o Sistema)
-EBS(armazemento interno)
-S3(Guarda os documentos)
+EC2(Hospeda o Sistema),
+EBS(armazemento interno),
+S3(Guarda os documentos),
 Lambda(processa automaticamente os arquivos do S3)
 
 
